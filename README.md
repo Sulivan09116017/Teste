@@ -61,3 +61,8 @@ int main(){
 return 0;
 }
 ```
+### Tabelas
+| id | nome | classe|
+|----|----:|----|
+| 1 | Sulivan | Guerreiro |
+| 2 | Sergio | Mago |
