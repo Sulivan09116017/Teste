@@ -5,9 +5,10 @@
 ##### Titulo H5
 ###### Titulo H6
 
-Isso é um parágrafo.
-**negrito**
-__negrito__
+Isso é um parágrafo. 
+
+**negrito**  
+__negrito__  
 
 Essa frase tem **negrito**.
 
@@ -18,8 +19,8 @@ _Itálico_
 
 ### Citação
 >Essa é uma citação.
-> -Lista 1
-> -Lista 2
+> - Lista 1
+> - Lista 2
 >>Essa é uma segunda citação.
 
 ### Lista ordenada
