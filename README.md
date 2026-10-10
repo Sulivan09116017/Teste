@@ -39,7 +39,7 @@ _Itálico_
 * Segundo item
 
 ### Imagens
-![descrição da imagem](/assets/imagens/linux.png)
+![descrição da imagem](cachorro.jpg)
 
 ### Links
 [Duck Duck Go](https://duckduckgo.com).
