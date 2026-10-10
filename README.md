@@ -45,8 +45,8 @@ _Itálico_
 [Duck Duck Go](https://duckduckgo.com).
 
 ### URLs e endereço de e-mail
-<https://www.markdownguide.org>
-<fake@example.com>
+<https://www.markdownguide.org>  
+<fake@example.com>  
 
 ### Códigos
  ```javascript
