@@ -66,3 +66,4 @@ return 0;
 |-|-:|:-|
 | 1 | Maria Aparecida de Jesus| Guerreiro prateado |
 | 2 | Sergio | Mago |
+|-|-:|:-|
