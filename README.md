@@ -62,6 +62,7 @@ return 0;
 }
 ```
 ### Tabelas
+
 | id | nome | classe|
 |-|-:|:-|
 | 1 | Maria Aparecida de Jesus| Guerreiro prateado |
